@@ -1,0 +1,16 @@
+== -> Equals 
+!= -> Not Equal 
+
+> -> greater than 
+< -> less than 
+>= -> greater than or Equal to 
+<= -> less than or Equal to 
+
+50 > 10 
+10 >= 10
+10 <= 10 
+
+10 < 10 
+
+&& -> AND  -> and 
+|| -> OR  -> or
